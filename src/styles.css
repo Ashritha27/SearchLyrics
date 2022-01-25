@@ -82,7 +82,8 @@ form button {
   border: 0;
   border-radius: 10px;
   color: white;
-  padding: 4px 10px;
+  padding: 5px 10px;
+  margin: 5px 5px;
 }
 
 ul.songs {
@@ -94,7 +95,8 @@ ul.songs.li {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 10px 0;
+  margin: 20px 10px;
+  margin-top: 20px;
 }
 
 .container {
